@@ -5,6 +5,7 @@
       From a computational perspective, I'm most interested in software development and data analysis (these are both active learning areas). 
 - 🌱 I’m currently using Unix/bash and Golang for my research. I have at least some level of exprience with the following lanuages: R, Java, Python, HTML
 - 📫 I can be reached at cshoben(at)gmail.com 
+- Check out: https://github.com/vertgenlab/gonomics to see my contributions to my lab's Gonomics software suite, full of tools to support genomic research. 
 
 <!---
 cshoben/cshoben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
